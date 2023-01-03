@@ -1,6 +1,6 @@
 # AI_image_classification
 
-## 인공지능 수업 TEAM PJ 
+## 인공지능 수업 PJ 
 
 ### Kaggle dataset을 이용한 Human Emotion Classification 
 
