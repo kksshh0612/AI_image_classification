@@ -1,8 +1,8 @@
 # AI_image_classification
 
-## 인공지능 수업 PJ 
+## AI 수업 PJ - AI Model for Autistic People
 
-### Kaggle dataset을 이용한 Human Emotion Classification 
+## Kaggle dataset을 이용한 Human Emotion Classification 
 
 **dataset** : https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
 
